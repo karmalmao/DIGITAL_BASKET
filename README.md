@@ -10,6 +10,7 @@ Members (example):
  - John Doe: designer
  - John Smith: programmer
  - Sandra Dee: artist
+ - Luke Marchant: artist
 
 
 ## Build Steps:
