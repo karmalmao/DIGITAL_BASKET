@@ -8,7 +8,7 @@ Contributors to the project are strictly limated to AIE Students as part of thei
 
 Members (example):
  - John Doe: designer
- - John Smith: programmer
+ - Flynn May: programmer
  - Sandra Dee: artist
  - Luke Marchant: artist
  - Max Carlon: artist
