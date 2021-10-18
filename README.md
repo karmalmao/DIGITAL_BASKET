@@ -11,6 +11,7 @@ Members (example):
  - John Smith: programmer
  - Sandra Dee: artist
  - Luke Marchant: artist
+ - Max Carlon: artist
 
 
 ## Build Steps:
